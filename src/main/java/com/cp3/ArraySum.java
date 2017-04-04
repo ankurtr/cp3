@@ -27,9 +27,9 @@ public class ArraySum {
                     arr[i] = sc.nextInt();
                 }
                 if (isSumPresent_(arr, X)) {
-                    System.out.println("YES");
+                    System.out.println("Yes");
                 } else {
-                    System.out.println("NO");
+                    System.out.println("No");
                 }
             }
         }
