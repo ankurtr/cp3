@@ -43,7 +43,8 @@ public class CobraTempleTest {
         Assert.assertEquals(0, CobraTemple.checkTemple(new int[]{1, 2, 1}));
         Assert.assertEquals(1, CobraTemple.checkTemple(new int[]{1, 1, 2, 1}));
         Assert.assertEquals(3, CobraTemple.checkTemple(new int[]{1, 2, 6, 2, 1}));
-        Assert.assertEquals(3, CobraTemple.checkTemple(new int[]{2, 2, 2, 2, 2, 1}));
+        Assert.assertEquals(9, CobraTemple.checkTemple(new int[]{5, 5, 5, 2, 1}));
+        Assert.assertEquals(1, CobraTemple.checkTemple(new int[]{1, 1}));
 
     }
 }
