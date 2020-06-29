@@ -2,6 +2,7 @@ package com.j;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
+import java.util.TreeMap;
 
 /**
  * Created by ankur on 11/4/17.
@@ -26,6 +27,11 @@ public class ArrayDequeTest {
         deque.add(3);
 
         System.out.println(deque);
+
+        TreeMap<Integer,Integer> map = new TreeMap<>();
+        map.put(1,3);
+        map.put(1,2);
+        System.out.println(map);
 
     }
 }
