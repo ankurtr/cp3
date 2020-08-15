@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cp3.PowerSetTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-08-08T03:29:55" hostname="SIYARAM" time="0.003">
+  <properties/>
+  <testcase name="generatePowerSet" classname="com.cp3.PowerSetTest" time="0.001"/>
+  <testcase name="generatePowerSet2" classname="com.cp3.PowerSetTest" time="0.0"/>
+  <testcase name="testSetBitsInGivenNumber" classname="com.cp3.PowerSetTest" time="0.0"/>
+  <testcase name="testSomething" classname="com.cp3.PowerSetTest" time="0.0"/>
+  <system-out><![CDATA[4
+4
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
