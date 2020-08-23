@@ -11,6 +11,8 @@ com/j/ThreadCheck.java
  com.j.ThreadCheck
 com/algos/PathFinderPrintAllPaths.java
  com.algos.PathFinderPrintAllPaths
+com/az/LargestArea.java
+ com.az.LargestArea
 com/cf/may6_977/ProblemD.java
  com.cf.may6_977.ProblemD
 com/di/sd17/CobraTemple.java
@@ -30,6 +32,8 @@ com/j/SynchronousQueueTest.java
  com.j.SynchronousQueueTest
  com.j.X
  com.j.Y
+com/az/Knapsack.java
+ com.az.Knapsack
 com/cf/may6_977/ProblemE.java
  com.cf.may6_977.ProblemE
  com.cf.may6_977.ProblemE$InputReader
@@ -66,12 +70,15 @@ com/ds/TrieImpl.java
 com/leetcode/BottomOrderTreeTraversal.java
  com.leetcode.BottomOrderTreeTraversal
  com.leetcode.TreeNode
-com/cc/CNOTE.java
- com.cc.CNOTE
+com/az/Dist.java
+ com.az.Dist
+ com.az.PairInt
 com/cf/may6_977/ProblemC.java
  com.cf.may6_977.ProblemC
 com/threading/ReadWriteLockExample.java
  com.threading.ReadWriteLockExample
+com/az/CharactGroup.java
+ com.az.CharactGroup
 com/cp3/ArraySum.java
  com.cp3.ArraySum
 com/j/ArrayDequeTest.java
@@ -80,10 +87,9 @@ com/algos/PathFinderIsThereAPath.java
  com.algos.PathFinderIsThereAPath
 com/cf/may21_985/ProblemA.java
  com.cf.may21_985.ProblemA
+com/az/HalfMaze.java
+ com.az.HalfMaze
 com/ds/ConnectedComponents.java
  com.ds.ConnectedComponents
-com/az/Dist.java
- com.az.Dist
- com.az.PairInt
-com/az/CharactGroup.java
- com.az.CharactGroup
+com/cc/CNOTE.java
+ com.cc.CNOTE
