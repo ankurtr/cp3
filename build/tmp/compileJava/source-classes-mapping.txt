@@ -1,75 +1,45 @@
-com/cc/SALARY.java
- com.cc.SALARY
+com/algos/TopoSortNumber.java
+ com.algos.TopoSortNumber
 com/hr/Clouds.java
  com.hr.Clouds
 com/cf/may6_977/ProblemA.java
  com.cf.may6_977.ProblemA
-com/j/ThreadCheck.java
- com.j.A
- com.j.B
- com.j.C
- com.j.ThreadCheck
-com/algos/PathFinderPrintAllPaths.java
- com.algos.PathFinderPrintAllPaths
+com/paytm/MovingAverageDeque.java
+ com.paytm.MovingAverageDeque
 com/az/LargestArea.java
  com.az.LargestArea
-com/cf/may6_977/ProblemD.java
- com.cf.may6_977.ProblemD
-com/di/sd17/CobraTemple.java
- com.di.sd17.CobraTemple
-com/cp3/PostFixEval.java
- com.cp3.PostFixEval
-com/cp3/Paranthesis.java
- com.cp3.Paranthesis
+com/algoexpert/paranthesis.java
+ com.algoexpert.paranthesis
+com/algoexpert/TopologicalSorting.java
+ com.algoexpert.TopologicalSorting
+ com.algoexpert.TopologicalSorting$JobGraph
+ com.algoexpert.TopologicalSorting$JobNode
 com/cp3/ch01/MinWeightPairs.java
  com.cp3.ch01.MinWeightPairs
 com/threading/BasicThreading.java
  com.threading.BasicThreading
+com/hr/MaxGamePlay.java
+ com.hr.MaxGamePlay
+ com.hr.MaxGamePlay$Player
 com/ds/BasicGraph.java
  com.ds.AdjacentNode
  com.ds.BasicGraph
-com/j/SynchronousQueueTest.java
- com.j.SynchronousQueueTest
- com.j.X
- com.j.Y
 com/az/Knapsack.java
  com.az.Knapsack
-com/cf/may6_977/ProblemE.java
- com.cf.may6_977.ProblemE
- com.cf.may6_977.ProblemE$InputReader
- com.cf.may6_977.ProblemE$TaskD
- com.cf.may6_977.ProblemE$TaskD$Elem
-com/hr/Problem1.java
- com.hr.AdjacentNode
- com.hr.Problem1
 com/j/BlockingQueue.java
  com.j.BlockingQueue
 com/hr/BrushUp.java
  com.hr.BrushUp
-com/cc/LECANDY.java
- com.cc.LECANDY
+com/threading/TickSmith.java
+ com.threading.TickSmith
 com/az/RelativeSorting.java
  com.az.RelativeSorting
 com/cp3/MatrixRotate.java
  com.cp3.MatrixRotate
-com/j/ExecutorDemo.java
- com.j.ExecutorDemo
 com/az/TreeCut.java
  com.az.TreeCut
-com/cf/may6_977/ProblemB.java
- com.cf.may6_977.ProblemB
-com/cp3/PowerSet.java
- com.cp3.PowerSet
-com/algoexpert/Problem1.java
- com.algoexpert.Problem1
-com/cp3/CompleteBinaryTree.java
- com.cp3.CompleteBinaryTree
-com/ds/TrieImpl.java
- com.ds.TrieImpl
- com.ds.TrieNode
-com/leetcode/BottomOrderTreeTraversal.java
- com.leetcode.BottomOrderTreeTraversal
- com.leetcode.TreeNode
+com/j/CoinChange.java
+ com.j.CoinChange
 com/az/Dist.java
  com.az.Dist
  com.az.PairInt
@@ -81,15 +51,103 @@ com/az/CharactGroup.java
  com.az.CharactGroup
 com/cp3/ArraySum.java
  com.cp3.ArraySum
-com/j/ArrayDequeTest.java
- com.j.ArrayDequeTest
+com/j/MS3.java
+ com.j.MS3
+ com.j.MS3$Fraction
 com/algos/PathFinderIsThereAPath.java
  com.algos.PathFinderIsThereAPath
-com/cf/may21_985/ProblemA.java
- com.cf.may21_985.ProblemA
 com/az/HalfMaze.java
  com.az.HalfMaze
-com/ds/ConnectedComponents.java
- com.ds.ConnectedComponents
 com/cc/CNOTE.java
  com.cc.CNOTE
+com/cc/SALARY.java
+ com.cc.SALARY
+com/j/ThreadCheck.java
+ com.j.A
+ com.j.B
+ com.j.C
+ com.j.ThreadCheck
+com/az/DFSBFS.java
+ com.az.DFSBFS
+ com.az.Node
+com/algos/PathFinderPrintAllPaths.java
+ com.algos.PathFinderPrintAllPaths
+com/algoexpert/NodeDepthSum.java
+ com.algoexpert.NodeDepthSum
+ com.algoexpert.NodeDepthSum$BinaryTree
+ com.algoexpert.NodeDepthSum$Level
+com/az/top1.java
+ com.az.top1
+com/j/PayTm.java
+ com.j.PayTm
+com/cf/may6_977/ProblemD.java
+ com.cf.may6_977.ProblemD
+com/di/sd17/CobraTemple.java
+ com.di.sd17.CobraTemple
+com/cp3/PostFixEval.java
+ com.cp3.PostFixEval
+com/az/Power.java
+ com.az.Power
+com/cp3/Paranthesis.java
+ com.cp3.Paranthesis
+com/j/NAryRoot.java
+ com.j.NAryRoot
+ com.j.Node
+com/az/top2.java
+ com.az.top2
+com/j/SynchronousQueueTest.java
+ com.j.SynchronousQueueTest
+ com.j.X
+ com.j.Y
+com/cf/may6_977/ProblemE.java
+ com.cf.may6_977.ProblemE
+ com.cf.may6_977.ProblemE$InputReader
+ com.cf.may6_977.ProblemE$TaskD
+ com.cf.may6_977.ProblemE$TaskD$Elem
+com/hr/Problem1.java
+ com.hr.AdjacentNode
+ com.hr.Problem1
+com/cc/LECANDY.java
+ com.cc.LECANDY
+com/algoexpert/CommonAncestors.java
+ com.algoexpert.CommonAncestors
+ com.algoexpert.CommonAncestors$TreeNode
+com/j/ExecutorDemo.java
+ com.j.ExecutorDemo
+com/cf/may6_977/ProblemB.java
+ com.cf.may6_977.ProblemB
+com/algos/NumberOfDecks.java
+ com.algos.NumberOfDecks
+com/cp3/PowerSet.java
+ com.cp3.PowerSet
+com/az/threepairssum.java
+ com.az.threepairssum
+com/az/WordLadder.java
+ com.az.WordLadder
+com/j/AvenueCode.java
+ com.j.AvenueCode
+com/paytm/MovingAverageDequeImpl.java
+ com.paytm.MovingAverageDequeImpl
+com/algoexpert/Problem1.java
+ com.algoexpert.Problem1
+com/cp3/CompleteBinaryTree.java
+ com.cp3.CompleteBinaryTree
+com/ds/TrieImpl.java
+ com.ds.TrieImpl
+ com.ds.TrieNode
+com/leetcode/BottomOrderTreeTraversal.java
+ com.leetcode.BottomOrderTreeTraversal
+ com.leetcode.TreeNode
+com/j/ArrayDequeTest.java
+ com.j.ArrayDequeTest
+com/j/Main.java
+ com.j.Main
+com/cf/may21_985/ProblemA.java
+ com.cf.may21_985.ProblemA
+com/ds/ConnectedComponents.java
+ com.ds.ConnectedComponents
+com/algoexpert/TopoSortMine.java
+ com.algoexpert.TopoSortMine
+ com.algoexpert.TopoSortMine$1
+ com.algoexpert.TopoSortMine$Graph
+ com.algoexpert.TopoSortMine$Node

@@ -23,6 +23,8 @@ com/cp3/PowerSetTest.java
  com.cp3.PowerSetTest
 com/cp3/ch01/MinWeightPairsTest.java
  com.cp3.ch01.MinWeightPairsTest
+com/paytm/MovingAverageDequeImplTest.java
+ com.paytm.MovingAverageDequeImplTest
 com/cp3/CompleteBinaryTreeTest.java
  com.cp3.CompleteBinaryTreeTest
 com/cp3/ParanthesisTest.java

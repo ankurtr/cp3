@@ -9,14 +9,14 @@ import java.util.stream.IntStream;
 public class RelativeSorting {
 
     public static void main(String[] args) {
-        int[] result = new RelativeSorting().relativeSortArray(new int[]{2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19},
+        int[] result = RelativeSorting.relativeSortArray(new int[]{2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19},
                 new int[]{2, 1, 4, 3, 9, 6});
 
         IntStream.range(0, result.length)
                 .forEach(index -> System.out.print(result[index] + " "));
     }
 
-    public int[] relativeSortArray(int[] arr1, int[] arr2) {
+    public static int[] relativeSortArray(int[] arr1, int[] arr2) {
         int[] newArr = new int[arr1.length];
 
         Map<Integer, Integer> bitMap = new HashMap<>();
