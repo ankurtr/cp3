@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.j.BlockingQueueTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-06T21:13:59" hostname="DESKTOP-06H61AM" time="20.034">
+  <properties/>
+  <testcase name="testBlockingQueue" classname="com.j.BlockingQueueTest" time="20.034"/>
+  <system-out><![CDATA[Enqueued : 59.16675924233332
+Dequeued : 59
+Enqueued : 4.226148139047481
+Enqueued : 80.02163320221615
+Enqueued : 0.3826941615402202
+Enqueued : 54.127898490674475
+Enqueued : 18.256840717588318
+Enqueued : 58.100914839290255
+Enqueued : 42.64685011163809
+Enqueued : 10.65947944958051
+Enqueued : 6.752987368069297
+Enqueued : 54.128333275626126
+Dequeued : 4
+Enqueued : 34.99904126038499
+Enqueued : 10.816616040601213
+Dequeued : 80
+Enqueued : 24.259033922591943
+Dequeued : 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

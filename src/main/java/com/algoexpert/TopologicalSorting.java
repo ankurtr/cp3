@@ -19,8 +19,13 @@ public class TopologicalSorting {
         deps.add(new Integer[]{1, 3});
         deps.add(new Integer[]{3, 2});
         deps.add(new Integer[]{4, 2});
-        deps.add(new Integer[]{4, 3});
+        //deps.add(new Integer[]{4, 3}); //uncomment for cycle
         deps.add(new Integer[]{3, 4});
+
+        //1 - {}
+        //2 - {1,3,4}
+        //3 - {1,4}
+        //4 - {3}
 
         System.out.println(topologicalSort(jobs, deps));
     }
@@ -50,6 +55,10 @@ public class TopologicalSorting {
         return orderedJobs;
     }
 
+    //1 - {}
+    //2 - {1,3,4}
+    //3 - {1}
+    //4 - {3} -1(true) 1-3-4
     public static boolean depthFirstTraverse(JobNode node, List<Integer> orderedJobs) {
         if (node.visited) return false;
         if (node.visiting) return true;

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cp3.ArraySumTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-06-06T21:13:59" hostname="DESKTOP-06H61AM" time="0.003">
+  <properties/>
+  <testcase name="isSumPresent" classname="com.cp3.ArraySumTest" time="0.002"/>
+  <testcase name="isSumPresent_" classname="com.cp3.ArraySumTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

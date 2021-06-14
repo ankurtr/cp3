@@ -41,7 +41,7 @@ public class Dist {
         }
         Comparator<PairInt> comparator = Comparator.comparingDouble(o -> ((o.first * o.first) + (o.second * o.second)));
         //A min heap will consist of all the nearest locations
-        PriorityQueue<PairInt> minHeap = new PriorityQueue<>(truckCapacity, comparator.reversed());
+         PriorityQueue<PairInt> minHeap = new PriorityQueue<>(truckCapacity, comparator.reversed());
 
         allLocations.forEach(allocation -> {
             minHeap.add(allocation);

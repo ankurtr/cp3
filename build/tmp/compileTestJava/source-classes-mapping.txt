@@ -6,6 +6,8 @@ com/j/BlockingQueueTest.java
  com.j.BlockingQueueTest
  com.j.Consumer
  com.j.Producer
+com/cp3/ch01/MinWeightXorPairsTest.java
+ com.cp3.ch01.MinWeightXorPairsTest
 com/cp3/ArraySumTest.java
  com.cp3.ArraySumTest
 com/cc/TestSALARY.java
@@ -21,8 +23,6 @@ com/cf/ProblemE.java
  com.cf.ProblemE
 com/cp3/PowerSetTest.java
  com.cp3.PowerSetTest
-com/cp3/ch01/MinWeightPairsTest.java
- com.cp3.ch01.MinWeightPairsTest
 com/paytm/MovingAverageDequeImplTest.java
  com.paytm.MovingAverageDequeImplTest
 com/cp3/CompleteBinaryTreeTest.java

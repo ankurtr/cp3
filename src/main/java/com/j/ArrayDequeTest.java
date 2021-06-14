@@ -9,6 +9,8 @@ import java.util.TreeMap;
  */
 public class ArrayDequeTest {
 
+    private static final int MOD = (int) (1e9 + 7);
+
     public static void main(String[] args) {
 
         Deque<Integer> deque = new ArrayDeque<>();
@@ -28,9 +30,9 @@ public class ArrayDequeTest {
 
         System.out.println(deque);
 
-        TreeMap<Integer,Integer> map = new TreeMap<>();
-        map.put(1,3);
-        map.put(1,2);
+        TreeMap<Integer, Integer> map = new TreeMap<>();
+        map.put(1, 3);
+        map.put(1, 2);
         System.out.println(map);
 
     }

@@ -50,14 +50,61 @@ public class Intervals {
             System.out.print("[" + interval.start + "," + interval.end + "] ");
         System.out.println();*/
 
-        List<Interval> input = new ArrayList<>();
+        /*List<Interval> input = new ArrayList<>();
         input.add(new Interval(1, 3));
         input.add(new Interval(5, 7));
         input.add(new Interval(8, 12));
         System.out.print("Intervals after inserting the new interval: ");
         for (Interval interval : insert(input, new Interval(4, 10)))
             System.out.print("[" + interval.start + "," + interval.end + "] ");
+        System.out.println();*/
+
+        /*List<Interval> input1 = new ArrayList<>();
+        input1.add(new Interval(1, 3));
+        input1.add(new Interval(5, 6));
+        input1.add(new Interval(7, 9));
+
+        List<Interval> input2 = new ArrayList<>();
+        input2.add(new Interval(2, 3));
+        input2.add(new Interval(5, 7));
+
+        for (Interval interval : intersect(input1, input2))
+            System.out.print("[" + interval.start + "," + interval.end + "] ");
+        System.out.println();*/
+
+        List<Interval> input1 = new ArrayList<>();
+        input1.add(new Interval(1, 3));
+        input1.add(new Interval(5, 7));
+        input1.add(new Interval(9, 12));
+
+        List<Interval> input2 = new ArrayList<>();
+        input2.add(new Interval(5, 10));
+
+        for (Interval interval : intersect(input1, input2))
+            System.out.print("[" + interval.start + "," + interval.end + "] ");
         System.out.println();
+    }
+
+    public static List<Interval> intersect(List<Interval> intervals1, List<Interval> intervals2) {
+        List<Interval> result = new ArrayList<>();
+        int i = 0, j = 0;
+        Interval i1;
+        Interval i2;
+
+        while (i < intervals1.size() && j < intervals2.size()) {
+            i1 = intervals1.get(i);
+            i2 = intervals2.get(j);
+            if ((i1.start >= i2.start && i1.start <= i2.end) ||
+                    (i2.start >= i1.start && i2.start <= i1.end)) {
+                result.add(new Interval(Math.max(i1.start, i2.start), Math.min(i1.end, i2.end)));
+            }
+            if (i1.end > i2.end) {
+                j++;
+            } else {
+                i++;
+            }
+        }
+        return result;
     }
 
     private static List<Interval> insert(List<Interval> intervals, Interval toInsert) {

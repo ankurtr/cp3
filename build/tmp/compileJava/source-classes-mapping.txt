@@ -1,29 +1,134 @@
+com/leetcode/QSelect.java
+ com.leetcode.QSelect
 com/algos/TopoSortNumber.java
  com.algos.TopoSortNumber
 com/hr/Clouds.java
  com.hr.Clouds
-com/cf/may6_977/ProblemA.java
- com.cf.may6_977.ProblemA
 com/paytm/MovingAverageDeque.java
  com.paytm.MovingAverageDeque
+com/algos/ConnectedComponents.java
+ com.algos.ConnectedComponents
+ com.algos.UnionFind
 com/az/LargestArea.java
  com.az.LargestArea
 com/algoexpert/paranthesis.java
  com.algoexpert.paranthesis
+com/leetcode/contest/XorSum.java
+ com.leetcode.contest.XorSum
+com/j/ShopifyComparator.java
+ com.j.ShopifyComparator
+com/ds/BasicGraph.java
+ com.ds.AdjacentNode
+ com.ds.BasicGraph
+com/leetcode/contest/BuySellOrders.java
+ com.leetcode.contest.BuySellOrders
+com/j/PriorityQueueTest.java
+ com.j.PriorityQueueTest
+com/leetcode/contest/PointsInsideCircle.java
+ com.leetcode.contest.PointsInsideCircle
+com/algoexpert/MergeLL.java
+ com.algoexpert.MergeLL
+ com.algoexpert.MergeLL$LinkedList
+com/j/LeetCodeAprilChallenge3.java
+ com.j.LeetCodeAprilChallenge3
+com/educative/Intervals.java
+ com.educative.Intervals
+ com.educative.Intervals$Interval
+com/j/WayFairBadgeInMezzy.java
+ com.j.WayFairBadgeInMezzy
+com/j/MS3.java
+ com.j.MS3
+ com.j.MS3$Fraction
+com/algos/PathFinderIsThereAPath.java
+ com.algos.PathFinderIsThereAPath
+com/leetcode/contest/MinIntervals.java
+ com.leetcode.contest.MinIntervals
+com/j/ThreadCheck.java
+ com.j.A
+ com.j.B
+ com.j.C
+ com.j.ThreadCheck
+com/az/DFSBFS.java
+ com.az.DFSBFS
+ com.az.Node
+com/leetcode/CrossWordPuzzle.java
+ com.leetcode.CrossWordPuzzle
+com/algos/PathFinderPrintAllPaths.java
+ com.algos.PathFinderPrintAllPaths
+com/leetcode/LeastCommonSubsequence.java
+ com.leetcode.LeastCommonSubsequence
+com/az/top1.java
+ com.az.top1
+com/j/PayTm.java
+ com.j.PayTm
+com/cf/may6_977/ProblemD.java
+ com.cf.may6_977.ProblemD
+com/cp3/PostFixEval.java
+ com.cp3.PostFixEval
+com/j/WayFairBadgeIn.java
+ com.j.WayFairBadgeIn
+com/algoexpert/GreedyTasks.java
+ com.algoexpert.GreedyTasks
+com/j/NAryRoot.java
+ com.j.NAryRoot
+ com.j.Node
+com/az/top2.java
+ com.az.top2
+com/j/SynchronousQueueTest.java
+ com.j.SynchronousQueueTest
+ com.j.X
+ com.j.Y
+com/algoexpert/LongestBalancedSubstring.java
+ com.algoexpert.LongestBalancedSubstring
+com/hr/Problem1.java
+ com.hr.AdjacentNode
+ com.hr.Problem1
+com/cc/LECANDY.java
+ com.cc.LECANDY
+com/algoexpert/CommonAncestors.java
+ com.algoexpert.CommonAncestors
+ com.algoexpert.CommonAncestors$TreeNode
+com/algos/NumberOfDecks.java
+ com.algos.NumberOfDecks
+com/az/WordLadder.java
+ com.az.WordLadder
+com/j/AvenueCode.java
+ com.j.AvenueCode
+com/paytm/MovingAverageDequeImpl.java
+ com.paytm.MovingAverageDequeImpl
+com/cp3/CompleteBinaryTree.java
+ com.cp3.CompleteBinaryTree
+com/ds/TrieImpl.java
+ com.ds.TrieImpl
+ com.ds.TrieNode
+com/leetcode/MinRequiredSwapsToMakeAll1.java
+ com.leetcode.MinRequiredSwapsToMakeAll1
+com/j/ArrayDequeTest.java
+ com.j.ArrayDequeTest
+com/j/Main.java
+ com.j.Main
+com/cf/may6_977/ProblemA.java
+ com.cf.may6_977.ProblemA
+com/leetcode/NextGreaterElement.java
+ com.leetcode.NextGreaterElement
+com/algoexpert/MergeSort.java
+ com.algoexpert.MergeSort
 com/algoexpert/TopologicalSorting.java
  com.algoexpert.TopologicalSorting
  com.algoexpert.TopologicalSorting$JobGraph
  com.algoexpert.TopologicalSorting$JobNode
+com/j/CollectionsUtils.java
+ com.j.CollectionsUtils
 com/cp3/ch01/MinWeightPairs.java
  com.cp3.ch01.MinWeightPairs
+com/algoexpert/BFS.java
+ com.algoexpert.BFS
+ com.algoexpert.BFS$Node
 com/threading/BasicThreading.java
  com.threading.BasicThreading
 com/hr/MaxGamePlay.java
  com.hr.MaxGamePlay
  com.hr.MaxGamePlay$Player
-com/ds/BasicGraph.java
- com.ds.AdjacentNode
- com.ds.BasicGraph
 com/az/Knapsack.java
  com.az.Knapsack
 com/j/BlockingQueue.java
@@ -38,116 +143,99 @@ com/cp3/MatrixRotate.java
  com.cp3.MatrixRotate
 com/az/TreeCut.java
  com.az.TreeCut
-com/j/CoinChange.java
- com.j.CoinChange
+com/j/BoundedBlockingQueue.java
+ com.j.BoundedBlockingQueue
+com/algoexpert/TopoSortMine.java
+ com.algoexpert.TopoSortMine
+ com.algoexpert.TopoSortMine$1
+ com.algoexpert.TopoSortMine$Graph
+ com.algoexpert.TopoSortMine$Node
+com/j/ExecutorServicePasteBin.java
+ com.j.ExecutorServicePasteBin
+ com.j.Worker
+com/leetcode/NQueenProblem.java
+ com.leetcode.NQueenProblem
+com/educative/ReplacingOnes.java
+ com.educative.ReplacingOnes
 com/az/Dist.java
  com.az.Dist
  com.az.PairInt
+com/leetcode/contest/MakeStringSorted.java
+ com.leetcode.contest.MakeStringSorted
 com/cf/may6_977/ProblemC.java
  com.cf.may6_977.ProblemC
 com/threading/ReadWriteLockExample.java
  com.threading.ReadWriteLockExample
+com/algoexpert/BinarySearch2Num.java
+ com.algoexpert.BinarySearch2Num
 com/az/CharactGroup.java
  com.az.CharactGroup
 com/cp3/ArraySum.java
  com.cp3.ArraySum
-com/j/MS3.java
- com.j.MS3
- com.j.MS3$Fraction
-com/algos/PathFinderIsThereAPath.java
- com.algos.PathFinderIsThereAPath
 com/az/HalfMaze.java
  com.az.HalfMaze
 com/cc/CNOTE.java
  com.cc.CNOTE
 com/cc/SALARY.java
  com.cc.SALARY
-com/j/ThreadCheck.java
- com.j.A
- com.j.B
- com.j.C
- com.j.ThreadCheck
-com/az/DFSBFS.java
- com.az.DFSBFS
- com.az.Node
-com/algos/PathFinderPrintAllPaths.java
- com.algos.PathFinderPrintAllPaths
 com/algoexpert/NodeDepthSum.java
  com.algoexpert.NodeDepthSum
  com.algoexpert.NodeDepthSum$BinaryTree
  com.algoexpert.NodeDepthSum$Level
-com/az/top1.java
- com.az.top1
-com/j/PayTm.java
- com.j.PayTm
-com/cf/may6_977/ProblemD.java
- com.cf.may6_977.ProblemD
+com/leetcode/TicTacToeSolver.java
+ com.leetcode.TicTacToe
+ com.leetcode.TicTacToeSolver
 com/di/sd17/CobraTemple.java
  com.di.sd17.CobraTemple
-com/cp3/PostFixEval.java
- com.cp3.PostFixEval
 com/az/Power.java
  com.az.Power
 com/cp3/Paranthesis.java
  com.cp3.Paranthesis
-com/j/NAryRoot.java
- com.j.NAryRoot
- com.j.Node
-com/az/top2.java
- com.az.top2
-com/j/SynchronousQueueTest.java
- com.j.SynchronousQueueTest
- com.j.X
- com.j.Y
+com/leetcode/contest/XorPairs.java
+ com.leetcode.contest.XorPairs
+com/leetcode/contest/MaximumXorForEachQuery.java
+ com.leetcode.contest.MaximumXorForEachQuery
+com/leetcode/PushTheBox.java
+ com.leetcode.PushTheBox
+com/algos/KSubArraySplit.java
+ com.algos.KSubArraySplit
+com/j/CopyOnWriteArrayListTest.java
+ com.j.CopyOnWriteArrayListTest
+ com.j.DilRaju
 com/cf/may6_977/ProblemE.java
  com.cf.may6_977.ProblemE
  com.cf.may6_977.ProblemE$InputReader
  com.cf.may6_977.ProblemE$TaskD
  com.cf.may6_977.ProblemE$TaskD$Elem
-com/hr/Problem1.java
- com.hr.AdjacentNode
- com.hr.Problem1
-com/cc/LECANDY.java
- com.cc.LECANDY
-com/algoexpert/CommonAncestors.java
- com.algoexpert.CommonAncestors
- com.algoexpert.CommonAncestors$TreeNode
+com/j/Stream.java
+ com.j.Stream
+com/algoexpert/WaterStorage.java
+ com.algoexpert.WaterStorage
 com/j/ExecutorDemo.java
  com.j.ExecutorDemo
 com/cf/may6_977/ProblemB.java
  com.cf.may6_977.ProblemB
-com/algos/NumberOfDecks.java
- com.algos.NumberOfDecks
 com/cp3/PowerSet.java
  com.cp3.PowerSet
 com/az/threepairssum.java
  com.az.threepairssum
-com/az/WordLadder.java
- com.az.WordLadder
-com/j/AvenueCode.java
- com.j.AvenueCode
-com/paytm/MovingAverageDequeImpl.java
- com.paytm.MovingAverageDequeImpl
-com/algoexpert/Problem1.java
- com.algoexpert.Problem1
-com/cp3/CompleteBinaryTree.java
- com.cp3.CompleteBinaryTree
-com/ds/TrieImpl.java
- com.ds.TrieImpl
- com.ds.TrieNode
+com/leetcode/WordBreak.java
+ com.leetcode.WordBreak
+com/algoexpert/InvertTree.java
+ com.algoexpert.InvertTree
+ com.algoexpert.InvertTree$BinaryTree
 com/leetcode/BottomOrderTreeTraversal.java
  com.leetcode.BottomOrderTreeTraversal
  com.leetcode.TreeNode
-com/j/ArrayDequeTest.java
- com.j.ArrayDequeTest
-com/j/Main.java
- com.j.Main
+com/leetcode/contest/SingleThreadedCpu.java
+ com.leetcode.contest.SingleThreadedCpu
 com/cf/may21_985/ProblemA.java
  com.cf.may21_985.ProblemA
+com/leetcode/KillProcess.java
+ com.leetcode.KillProcess
+com/algos/MakeBinaryStringAlternative.java
+ com.algos.MakeBinaryStringAlternative
 com/ds/ConnectedComponents.java
  com.ds.ConnectedComponents
-com/algoexpert/TopoSortMine.java
- com.algoexpert.TopoSortMine
- com.algoexpert.TopoSortMine$1
- com.algoexpert.TopoSortMine$Graph
- com.algoexpert.TopoSortMine$Node
+com/j/CoinChange.java
+ com.j.CoinChange

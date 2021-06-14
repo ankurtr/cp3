@@ -12,10 +12,10 @@ public class Stream {
         /*IntStream.generate(() -> (int) (Math.random() * 5)).takeWhile(n -> n != 3)
                 .forEachOrdered(System.out::println);*/
 
-        java.util.stream.Stream.of("a", "b", "c")
+        /*java.util.stream.Stream.of("a", "b", "c")
                 .dropWhile(s -> s.equals("b"))
                 .forEach(System.out::println);
-
+*/
 
         List<Integer> intList = new ArrayList<>();
         IntStream.rangeClosed(1, 10)
