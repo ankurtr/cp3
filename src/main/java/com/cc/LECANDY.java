@@ -30,15 +30,15 @@ public class LECANDY {
             String nc = br.readLine();
             String[] ncarr = nc.split(" ");
             int[] ncarri = new int[ncarr.length];
-            ncarri[0] = Integer.valueOf(ncarr[0]);
-            ncarri[1] = Integer.valueOf(ncarr[1]);
+            ncarri[0] = Integer.parseInt(ncarr[0]);
+            ncarri[1] = Integer.parseInt(ncarr[1]);
 
             String[] distrib = br.readLine().split(" ");
             int[] distribi = new int[distrib.length];
 
             int i = 0;
             for (String dst : distrib) {
-                distribi[i++] = Integer.valueOf(dst);
+                distribi[i++] = Integer.parseInt(dst);
             }
             System.out.println(canDistributeCandy(ncarri, distribi));
         }
