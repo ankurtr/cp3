@@ -4,6 +4,19 @@ import java.util.*;
 
 public class TopKFrequent {
 
+    public static void main(String[] args) {
+        String[] words = new String[7];
+        words[0] = "dilraju";
+        words[1] = "hi";
+        words[2] = "hey";
+        words[3] = "hello";
+        words[4] = "hi";
+        words[5] = "hi";
+        words[6] = "hello";
+
+        System.out.println(new TopKFrequent().topKFrequent(words, 2));
+    }
+
     public List<String> topKFrequent(String[] words, int k) {
         HashMap<String, Integer> freq = new LinkedHashMap<>();
         for (String word : words) {
